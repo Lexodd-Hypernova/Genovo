@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Cygre";
+  src: url("../src/assets/Cygre-Regular.ttf") format("truetype");
+  /* You can also specify other font formats like woff, woff2, eot if you have them */
+}
+a {
+  color: inherit; /* or any color you prefer */
+  text-decoration: none; /* Optional: Remove underline */
+}
+
+a:hover {
+  /* Optional: Add styles for hover state */
+  text-decoration: underline; /* Example: Underline on hover */
+}
